@@ -20,6 +20,7 @@ pygeoip==0.3.2
 PyInstaller==3.3
 pyscreenshot==0.4.2
 requests==2.18.4
-SQLAlchemy==1.1.15
+SQLAlchemy==1.2.18
 urllib3==1.22
 Werkzeug==0.12.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
