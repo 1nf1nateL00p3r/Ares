@@ -6,7 +6,7 @@ EasyProcess==0.2.3
 Flask==0.12.2
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.3.2
-future==0.16.0
+future==0.18.3
 gunicorn==19.7.1
 idna==2.6
 itsdangerous==0.24
